@@ -1,2 +1,2 @@
 # Snake
-The classic snake game as a mini coding challenge.
+Classic Snake game as a mini coding challenge.
